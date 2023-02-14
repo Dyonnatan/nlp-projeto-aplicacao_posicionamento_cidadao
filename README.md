@@ -1,7 +1,7 @@
 # [NLP] Projeto: Classificação Posicionamento na Opinião do Cidadão
 Dados do projeto de aplicação de detecção de posicionamento na opinião do cidadão
 
-Para maiores detalhes de implementação e resultados vide Relatório.pdf
+Para maiores detalhes de implementação e resultados vide Relatório.pdf: https://github.com/Dyonnatan/nlp-projeto-aplicacao_posicionamento_cidadao/blob/aa823802834ddeb903f98867c822aea189e826cb/Relat%C3%B3rio.pdf
 
 Notebook utilizado para treinamento do modelo de classificação: notebooks/classify_sentence_stance_detection_train.ipynb
 
